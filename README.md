@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Anushree 😄</h1>
+<h1 align="center">Hey there!  I'm Anushree </h1>
 <h3 align="center">⚡ Code. Create. Conquer. Repeat. ⚡</h3>
 
 <p align="center">
@@ -9,15 +9,15 @@
 
 ### 👩‍💻 About Me
 
-- 🌟 I'm a full-stack enthusiast with a soft spot for creative UI and logical puzzles  
+- 🌟 I'm a AI enthusiast with a soft spot for creative UI and logical puzzles  
 - 🧠 Currently building cool stuff in **Python, Java, MongoDB, Oracle APEX**  
-- 💥 Learning deep dives into **WebRTC, AI tools**, and **system design**  
-- 📈 I love working on **efficient backends** and **interactive frontends**  
+- 💥 Learning deep dives into **Data Science and AI tools**  
+- 📈 I love working on **data** and **ml models**  
 - 🎯 Goal: Build tech that feels like magic ✨
 
 ---
 
-### 🔗 Connect with me
+### 🔗 find me 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anushree14/)
 - 🧩 [LeetCode](https://leetcode.com/u/Anushree_14/)
@@ -31,21 +31,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,figma,vscode,react" />
 </p>
 
----
-
-### 🧠 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANUSHREE1403&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUSHREE1403&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 😎 Fun Fact
-
-> I debug faster when I have coffee ☕ and lo-fi playing 🎧  
-> Also, I name my variables better than I name my plants 🌱💻
 
 ---
 
