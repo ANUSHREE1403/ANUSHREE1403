@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌟 I'm a AI enthusiast with a soft spot for creative UI and logical puzzles  
+- 🌟 I'm an AI enthusiast with a soft spot for creative UI and logical puzzles  
 - 🧠 Currently building cool stuff in **Python, Java, MongoDB, Oracle APEX**  
 - 💥 Learning deep dives into **Data Science and AI tools**  
 - 📈 I love working on **data** and **ml models**  
