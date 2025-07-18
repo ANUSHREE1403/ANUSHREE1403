@@ -28,7 +28,7 @@ GOAL : to never stop learning , either from failures or successes
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,figma,vscode,apex" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,figma,vscode,apex,gcp,cloudrun,cloudfunctions" />
 </p>
 
 
