@@ -20,7 +20,6 @@ GOAL : to never stop learning , either from failures or successes
 ### 🔗 find me 
 
 -  [LinkedIn](https://www.linkedin.com/in/anushree14/)
--  [LeetCode](https://leetcode.com/u/Anushree_14/)
 -  [Email](workanushree14@gmail.com)
   
 
