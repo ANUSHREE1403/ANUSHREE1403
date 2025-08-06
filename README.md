@@ -12,7 +12,7 @@
 -  I'm an AI enthusiast with a soft spot for creative UI and logical puzzles  
 -  Currently building cool stuff in **Python and Java**  
 -  Learning deep dives into **Data Science and AI tools**  
--  I love working on **data** and **ml models**
+-  Trying my hands in **ML** simultaneously
   
 GOAL : to never stop learning , either from failures or successes 
 ---
