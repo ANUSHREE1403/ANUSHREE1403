@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=gradient&customColorList=0f0c29,302b63,24243e&text=Anushree%20%E2%80%94%20AI%2FML%2FDS%20Engineer&fontColor=FFFFFF&fontSize=34&fontAlign=50&animation=twinkling" alt="Anushree gradient banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=gradient&customColorList=0f0c29,302b63,24243e&text=Anushree%20%E2%80%94%20AI%2FML%2FDS%20Enthusiast&fontColor=FFFFFF&fontSize=34&fontAlign=50&animation=twinkling" alt="Anushree gradient banner" />
 </p>
 
 <h1 align="center">Hi! I'm Anushree</h1>
