@@ -51,8 +51,8 @@
 
 ### 🎉 Fun Zone
 
-- Favorite debugger: rubber duck 🦆
-- Best bug fix fuel: coffee + lo-fi beats ☕🎧
+- Favorite timepass : reading wtv the 🦆 i like
+- Best bug fix fuel: coffee + nom nom munchies ☕🎧
 - Ask me about: turning messy data into neat stories 📊
 
 ---
